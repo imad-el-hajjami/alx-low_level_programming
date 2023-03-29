@@ -2,7 +2,7 @@
 /**
  * reset_to_98 - a function that take an int as a parameter
  * and updates the points value to 98
- * @n: inpute 
+ * @n: input 
  * return: n
  */
 void reset_to_98(int *n)
